@@ -1,4 +1,5 @@
 # Letter-mark-up
 Introducing CSS to an HTML code
-this is my study project. i need help from those who know
-thankx lots
+ilookk fprward tom your guidance
+i know people here like to help
+i will leverage their support
