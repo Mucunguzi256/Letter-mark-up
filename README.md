@@ -8,8 +8,11 @@ thing going on very well
 thanks to MDM for your course
 how this feels so nice
 <!-- ZEK tokens on this -->
-This could be the future of crypto
+This is the future of crypto
+no doubt about that
 I look orward to anlysing your views
 <!-- i want to add this but please ignore -->
 i want to be a great coder
 i do constant practice
+<!-- it this what you expect of me -->
+lets breally tell the truth
