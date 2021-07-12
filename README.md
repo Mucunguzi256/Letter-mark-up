@@ -4,7 +4,7 @@
 <!--  and yoknow what -->
 <!-- i know people here like to help -->
 appreciations to their contribution
-thing going on very well 
+they keep me going
 thanks to MDM for your course
 how this feels so nice
 <!-- ZEK tokens on this -->
@@ -16,3 +16,5 @@ i want to be a great coder
 i do constant practice
 <!-- it this what you expect of me -->
 lets breally tell the truth
+its a good practicefor me to check in severyday
+that i can testify for sure
