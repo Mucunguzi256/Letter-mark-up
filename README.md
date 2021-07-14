@@ -1,9 +1,11 @@
 # Letter-mark-up
 letter was my first successful codde
 i really did it well
+atlantic opec
+oil price
 css helped me
  it give it good design
-<!--  and yoknow what -->
+ and yoknow what
 <!-- i know people here like to help -->
 appreciations to their contribution
 they keep me going
