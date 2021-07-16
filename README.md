@@ -10,8 +10,8 @@ css helped me
 appreciations to their contribution
 they keep me rolling
 and going
-
-thanks to MDM for your course
+let me take this momentus occassion 
+to thank MDM for your course
 how this feels so nice
 <!-- ZEK tokens on this -->
 This is the future of crypto
