@@ -1,8 +1,7 @@
 # Letter-mark-up
 letter was my first successful codde
 i really did it well
-atlantic opec
-oil price
+with css, it left a lot to desire
 css helped me
  it give it good design
  and yoknow what
@@ -24,3 +23,5 @@ i do constant practice
 lets breally tell the truth
 its a good practicefor me to check in severyday
 that i can testify for sure
+layout gets better with CSS 
+this everyone should know
