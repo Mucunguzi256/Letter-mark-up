@@ -25,3 +25,5 @@ its a good practicefor me to check in severyday
 that i can testify for sure
 layout gets better with CSS 
 this everyone should know
+next to learn is javascript
+am really excited to finish css and html
