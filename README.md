@@ -2,9 +2,9 @@
 letter was my first successful codde
 i really did it well
 with css, it left a lot to desire
-css helped me
- it give it good design
- and yoknow what
+css helped me a lot
+ it gave it a good design
+ and you know what
 <!-- i know people here like to help -->
 appreciations to their contribution
 they keep me rolling
