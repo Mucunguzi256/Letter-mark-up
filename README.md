@@ -6,7 +6,10 @@ css helped me a lot
  it gave it a good design
  and you know what
 <!-- i know people here like to help -->
-appreciations to their contribution
+appreciations;
+first to'
+their contribution
+and then guidance
 they keep me rolling
 and going
 let me take this momentus occassion 
