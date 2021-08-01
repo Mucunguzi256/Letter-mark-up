@@ -24,7 +24,7 @@ i want to be a great coder
 i do constant practice
 <!-- it this what you expect of me -->
 lets breally tell the truth
-its a good practicefor me to check in severyday
+its a good practicefor to check in always
 that i can testify for sure
 layout gets better with CSS 
 this everyone should know
@@ -33,3 +33,4 @@ am really excited to finish css and html
 am nowdoing some js
 it feel amazing for me 
 to get this far so far
+am happy i can now create a custom function
