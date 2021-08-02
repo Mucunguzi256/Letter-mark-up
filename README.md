@@ -21,7 +21,7 @@ no doubt about that
 I look orward to anlysing your views
 <!-- i want to add this but please ignore -->
 i want to be a great coder
-i do constant practice
+in great languages like rust
 <!-- it this what you expect of me -->
 lets breally tell the truth
 its a good practicefor to check in always
