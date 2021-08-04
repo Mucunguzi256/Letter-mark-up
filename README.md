@@ -3,7 +3,7 @@ letter was my first successful codde
 i really did it well
 with css, it left a lot to desire
 css helped me a lot
- it gave it a good design
+ it gave it a good UI
  and you know what
 <!-- i know people here like to help -->
 appreciations;
