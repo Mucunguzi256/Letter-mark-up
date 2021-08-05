@@ -29,7 +29,7 @@ that i can testify for sure
 layout gets better with CSS 
 this everyone should know
 next to learn is javascript
-am really excited to finish css and html
+i finished css and html
 am nowdoing some js
 it feel amazing for me 
 to get this far so far
