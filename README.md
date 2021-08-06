@@ -11,7 +11,6 @@ first to'
 their contribution
 and then guidance
 they keep me moving
-and going
 let me take this momentus occassion 
 to thank MDM for your course
 how this feels so nice
