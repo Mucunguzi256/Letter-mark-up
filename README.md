@@ -33,4 +33,5 @@ am nowdoing some js
 it feel amazing for me 
 to get this far so far
 am happy i can now create a custom function
+I will soon start on my project
 steady progress
