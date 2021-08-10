@@ -6,8 +6,7 @@ css helped me a lot
  it gave it a good UI
  and you know what
 <!-- i know people here like to help -->
-appreciations;
-first to'
+appreciations to;
 their contribution
 and then guidance
 they keep me moving
