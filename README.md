@@ -22,7 +22,7 @@ i want to be a great coder
 in great languages like rust
 <!-- it this what you expect of me -->
 lets breally tell the truth
-its a good practicefor to check in always
+its a good practice for to check in always
 that i can testify for sure
 layout gets better with CSS 
 this everyone should know
