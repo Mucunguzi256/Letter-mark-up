@@ -10,7 +10,7 @@ appreciations to;
 their contribution
 and then guidance
 they keep me moving
-let me take this momentus occassion 
+let me take this opportunity 
 to thank MDM for your course
 how this feels so nice
 <!-- ZEK tokens on this -->
