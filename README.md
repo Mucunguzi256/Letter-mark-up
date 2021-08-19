@@ -9,7 +9,7 @@ appreciations to;
 their contribution
 and then guidance
 they keep me moving
-let me take this opportunity 
+let me take this oppus moment 
 to thank MDM for your course
 how this feels so nice
 <!-- ZEK tokens on this -->
