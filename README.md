@@ -22,7 +22,7 @@ in great languages like rust
 <!-- it this what you expect of me -->
 lets breally tell the truth
 its a good practice to check in always
-that i can testify for sure
+that is for sure
 layout gets better with CSS 
 this everyone should know
 next to learn is javascript
